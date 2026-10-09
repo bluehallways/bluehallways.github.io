@@ -1,3 +1,7 @@
+---
+title: Blue Hallways
+---
+
 A home for the projects I'm building — apps, hardware, and puzzles. Right now it covers three: an iPad soccer manager, a ring light, and a Rubik's Cube solver.
 
 ## ⚽ Soccer Manager
